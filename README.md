@@ -3,7 +3,7 @@
 This is my project live link [Mountain Bicycle](https://mountain-bicycle.web.app).
 
 ## Short Description
-This is a simple manufacture website. user can easy to handle it .and also manage it.user can easily buy parts and he/she payed total cost.and also user can easily add feedback.This site has been implemented login and sign up page for user authentication. thats why this site is secure for valid user. Individual user can see his/her personal item .that was added he/she.This site implemented by using latest technologies .like react,firebase,mongodb,node.js,express etc.
+This is a simple manufacture website. user can easy to handle it .and also manage it.user can easily buy parts and he/she payed total cost.and also user can easily add feedback.This site has been implemented login and sign up page for user authentication. thats why this site is secure for valid user. Individual user can see his/her personal item .that was added he/she.This site implemented by using latest technologies .like react,firebase,mongodb,node.js,express.js,stripe,tailwind etc.Payment system has been implemented in this site.
 
 ## Technologies
 ***
